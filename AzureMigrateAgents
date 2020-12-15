@@ -1,8 +1,6 @@
 #wget https://download.microsoft.com/download/E/D/B/EDB22276-C316-4982-AFED-6367255D0824/InstallDependencyAgent-Linux64.bin
-#wget https://github.com/microsoft/OMS-Agent-for-Linux/releases/download/OMSAgent_v1.13.33-0/omsagent-1.13.33-0.universal.x64.sh
 
 #chmod +x InstallDependencyAgent-Linux64.bin
-#chmod +x omsagent-1.13.33-0.universal.x64.sh
 
 #./InstallDependencyAgent-Linux64.bin
 
