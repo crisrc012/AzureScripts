@@ -5,3 +5,5 @@
 #./InstallDependencyAgent-Linux64.bin
 
 wget https://raw.githubusercontent.com/Microsoft/OMS-Agent-for-Linux/master/installer/scripts/onboard_agent.sh && sh onboard_agent.sh -w a619cb8a-03be-4c30-9dd2-bf4c4aa28112 -s 1MOM+wVqAnTg/qASMM298iovRTYKmmMCia+2Jh4Enqtgho8zLIBLf3RR4xQ/7KboTSk7C0lUuY+FlomtGR/YIA== -d opinsights.azure.com
+
+# ./omsadmin.sh
